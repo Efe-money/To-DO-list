@@ -1,0 +1,22 @@
+.btnwrapper button  {
+    border: none;
+    width: 8%;
+    height: 40px;
+    
+}
+.taskLists{
+    font-size: 22px;
+}
+.wholeCNT{
+    position: relative;
+}
+   
+
+
+.topCNt input{
+    border: none !important ;
+    height: 40px;
+    font-size: 20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
